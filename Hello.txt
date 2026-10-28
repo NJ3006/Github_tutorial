@@ -3,4 +3,4 @@ initial change
 hello, how are you?
 
 can we connect today?
-No, I can't
+yes, we can
